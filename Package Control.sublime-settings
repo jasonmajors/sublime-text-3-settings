@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"All Autocomplete",
+		"BlackRain",
+		"Bubububububad and Boneyfied Color Schemes",
+		"ColorPicker",
+		"Colorsublime",
+		"Darkula Color Scheme",
+		"DocBlockr",
+		"GitGutter",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"PHPUnit Completions",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Brogrammer",
+		"Theme - Lanzhou",
+		"Theme - SoDaReloaded",
+		"WordPress Completions"
+	]
+}
